@@ -17,7 +17,7 @@ Páginas desenvolvidas durante atividades do Curso em Vídeo, do professor Gusta
 - CSS3
 
 ### Preview:
-![Preview Versão Mobile](./desafio_10/imagens/preview_desafio_10.png)
+<img src="desafio_10/imagens/preview_desafio_10.png" width="300">
 
 
 ### Acesse Online:
@@ -32,7 +32,7 @@ https://dilene-carvalho.github.io/Estudos/desafio_10/
 - CSS3
 
 ### Preview
-![Preview Versão Mobile](./projeto-cordel/imagens/preview_projeto_cordel.png)
+<img src="projeto-cordel/imagens/preview_projeto_cordel.png" width="300">
 
 ### Acesse online:
 https://dilene-carvalho.github.io/Estudos/projeto-cordel/

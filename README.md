@@ -1,6 +1,5 @@
-Curso de HTML5 e CSS3 - Colocando em Prática
 
-Páginas desenvolvidas durante atividades do Curso em Vídeo, do professor Gustavo Guanabara, onde aprendemos:
+#### Páginas desenvolvidas durante atividades do Curso de HTML5 e CSS3, do professor Gustavo Guanabara, onde aprendemos:
 
 - Conceitos de Web, Domínios e Hospedagens;
 - Design;
@@ -12,18 +11,19 @@ Páginas desenvolvidas durante atividades do Curso em Vídeo, do professor Gusta
 
 ## Landing Page "História do Mascote do Android" (Desafio 10)
 
+Projeto desenvolvido com HTML5 e CSS3, responsivo para Mobile, onde praticamos diversos conceitos como Âncoras, Menus, Listas e Abreviações, dentre outros.
+
 #### Acesse Online:
 [História do Mascote do Android](https://dilene-carvalho.github.io/Estudos/desafio_10/)
 
 #### Preview:
 <img src="desafio_10/imagens/preview_desafio_10.png" width="300">
 
-#### Sobre: 
-Projeto desenvolvido com HTML5 e CSS3, responsivo para Mobile, onde praticamos diversos conceitos como Âncoras, Menus, Listas e Abreviações, dentre outros.
-
 ---
 
 ## Projeto Cordel
+
+Projeto desenvolvido com HTML5 e CSS3, responsivo para Mobile, onde praticamos a estilização da página com imagens fixas de fundo (Efeito Parallax) e boas práticas no uso de sombras.
 
 #### Acesse online:
 [Projeto Cordel](https://dilene-carvalho.github.io/Estudos/projeto-cordel/)
@@ -31,11 +31,17 @@ Projeto desenvolvido com HTML5 e CSS3, responsivo para Mobile, onde praticamos d
 #### Preview
 <img src="projeto-cordel/imagens/preview_projeto_cordel.png" width="300">
 
-#### Sobre:
-Projeto desenvolvido com HTML5 e CSS3, responsivo para Mobile, onde praticamos a estilização da página com imagens fixas de fundo (Efeito Parallax) e boas práticas no uso de sombras. 
 
+---
 
+## Projeto Redes Sociais
 
+Mini projeto desenvolvido durante estudo de iframes, onde recriamos uma  tela de dispositivo mobile com navegação entre nossas redes sociais. Também foi discutido sobre a usabilidade dos iframes e questões de segurança.
 
+#### Acesse online:
+[Projeto Redes Sociais](https://dilene-carvalho.github.io/Estudos/projeto-redes-sociais/)
+
+#### Preview
+<img src="projeto-redes-sociais/imagens/preview-projeto-redes-sociais.png" width="300">
 
 

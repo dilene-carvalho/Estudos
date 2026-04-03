@@ -15,7 +15,7 @@ html, body{
 
 body{
     background: url('../imagens/mesa-fundo.jpg') no-repeat top center;
-    background-size: cover;
+    background-size: 100% 100%;
     background-attachment: fixed;
 }
 

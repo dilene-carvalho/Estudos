@@ -16,7 +16,7 @@ html, body{
 body{
     background: url('../imagens/mesa-fundo.jpg') no-repeat center center;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 
 main{
